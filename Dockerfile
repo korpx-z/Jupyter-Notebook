@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM quay.io/ibmz/ubuntu:18.04
 
 RUN apt update && \
   apt install -y openssh-server git vim autoconf g++ ca-certificates curl \
