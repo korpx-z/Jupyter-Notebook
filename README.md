@@ -1,5 +1,5 @@
 # Jupyter Notebook Image
--	[`master`](https://github.com/korpx-z/Jupyter-Notebook) - [![Build Status](https://travis-ci.com/korpx-z/Jupyter-Notebook.svg?branch=master)](https://travis-ci.com/github/korpx-z/Jupyter-Notebook)
+-    [build source](https://github.com/korpx-z/Jupyter-Notebook/tree/master/)
 
 ### Jupyter notebook, the language-agnostic evolution of IPython notebook
 Jupyter notebook is a language-agnostic HTML notebook application for
