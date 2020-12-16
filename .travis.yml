@@ -4,7 +4,7 @@ services:
 env:
   global:
     - BUILD_DIR="$PWD/"
-    - REPO="quay.io/ibmz/jupyter-notebook"
+    - REPO="quay.io/ibm/jupyter-notebook"
     - TAG="$REPO:s390x"
 before_script: 
   - cd $BUILD_DIR && chmod +x *
